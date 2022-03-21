@@ -1,5 +1,5 @@
 # IEEE-CIS-credit-card-fraud-detection
-## 1.動機 Motivations
+## 動機 Motivations
 
 ![](https://i.imgur.com/jNaGOrb.png)
 
@@ -15,4 +15,7 @@
 
 ## Data
 Data Source link: [IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection)
+
+## HackMD
+[HackMD](https://hackmd.io/@9mY24h7eRkuRXfYJ2chYkQ/SyrS9oCmY)
 
